@@ -5,3 +5,7 @@
 .alert {
   border: 1px solid gray;
 }
+
+.alert.stop {
+  background-color: red;
+}
