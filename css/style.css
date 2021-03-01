@@ -9,3 +9,7 @@
 .alert.stop {
   background-color: red;
 }
+
+.alert.go {
+  background-color: green;
+}
