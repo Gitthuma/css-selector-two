@@ -1,4 +1,4 @@
-test Yourself: Selectors Two
+Test Yourself: Selectors Two
 
 Without changing the HTML, make the following changes to the look of the content in this example:
 
